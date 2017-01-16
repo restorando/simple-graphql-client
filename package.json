@@ -1,0 +1,16 @@
+{
+  "name": "simple-graphql-client",
+  "version": "0.1.0",
+  "description": "Simple, zero dependencies GraphQL client for the Web and Node.js",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graphql"],
+  "author": "José Fresco <josemariafresco@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.1.5"
+  }
+}
